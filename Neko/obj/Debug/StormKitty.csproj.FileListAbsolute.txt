@@ -1,0 +1,13 @@
+D:\hacktools\Storm Kitty\StormKitty\stub\Neko\bin\Debug\StormKitty.exe.config
+D:\hacktools\Storm Kitty\StormKitty\stub\Neko\bin\Debug\StormKitty.exe
+D:\hacktools\Storm Kitty\StormKitty\stub\Neko\bin\Debug\StormKitty.pdb
+D:\hacktools\Storm Kitty\StormKitty\stub\Neko\bin\Debug\DotNetZip.dll
+D:\hacktools\Storm Kitty\StormKitty\stub\Neko\bin\Debug\DotNetZip.pdb
+D:\hacktools\Storm Kitty\StormKitty\stub\Neko\bin\Debug\DotNetZip.xml
+D:\hacktools\Storm Kitty\StormKitty\stub\Neko\obj\Debug\StormKitty.csproj.AssemblyReference.cache
+D:\hacktools\Storm Kitty\StormKitty\stub\Neko\obj\Debug\StormKitty.csproj.CoreCompileInputs.cache
+D:\hacktools\Storm Kitty\StormKitty\stub\Neko\obj\Debug\StormKitty.csproj.Up2Date
+D:\hacktools\Storm Kitty\StormKitty\stub\Neko\obj\Debug\StormKitty.exe
+D:\hacktools\Storm Kitty\StormKitty\stub\Neko\obj\Debug\StormKitty.pdb
+D:\hacktools\Storm Kitty\StormKitty\stub\Neko\bin\Debug\Newtonsoft.Json.dll
+D:\hacktools\Storm Kitty\StormKitty\stub\Neko\bin\Debug\Newtonsoft.Json.xml
